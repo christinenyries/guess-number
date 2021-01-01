@@ -1,5 +1,5 @@
 # guess-number
-Part 2 of 12 beginner python projects by Kylie Ying
+Part 2 and 3 of 12 beginner python projects by Kylie Ying
 
 ## Sample output
     COMPUTER  : Let's play a number guessing game.
